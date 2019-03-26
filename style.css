@@ -1,0 +1,88 @@
+body
+{
+	background-color: grey;
+}
+
+h1
+{
+	text-align: center;
+	color: red;
+	background-color: white;
+	border: 2px solid red;
+}
+
+h2
+{
+	text-align: center;
+	font-family: Verdana;
+	font-style: italic;
+	color: green;
+	border: 1px dashed red;
+	background-color: white;
+}
+
+p
+{
+	font-family: arial;
+	font-size: 15px;
+	color: blue;
+	margin: 50px;	
+}
+
+.image
+{
+	text-align: center;
+}
+
+a
+{
+	color: green;
+}
+
+#Rock
+{
+	color: black;
+}
+
+#Rock_body
+{
+	color: black;
+}
+
+.history
+{
+	background-color: #088;
+	border: 20px solid #0C0;
+	padding: 20px;
+	color: black;
+}
+
+.href
+{
+	color: blue;
+	font-weight: bold;
+}
+
+.white
+{
+	background-color: white;
+	border: 2px solid red;
+	padding: 20px;
+
+}
+
+.yellow
+{
+	color: yellow;
+}
+
+#conteneur
+{
+	display: flex;
+	justify-content: space-around;
+}
+
+.element
+{
+	
+}
